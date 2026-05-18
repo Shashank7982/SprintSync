@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Local env files
+.env
+.env.local
+
+# Temp/Draft files
+pdf_text.txt
+
+# Mistakenly created root package files (since code is inside SprintSync/)
+package.json
+package-lock.json
